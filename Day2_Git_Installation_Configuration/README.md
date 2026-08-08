@@ -1,11 +1,17 @@
-**Day 2 - Git Installation & Configuration**
-1. **Install Git  **
-   To install Git on a RHEL/CentOS-based Linux system:
-   yum install git -y
-   dnf install git -y 
+# Day 2 - Git Installation & Configuration
 
-   **Verify Git Installation**
-   git --version : This command displays the installed Git version. If Git is installed successfully, it will return the Git version.
+## 1.Install Git
+To install Git on a RHEL/CentOS-based Linux system:
+```bash
+   yum install git -y
+   dnf install git -y
+```bash
+
+## Verify Git Installation
+ The below command displays the installed Git version. If Git is installed successfully, it will return the Git version.
+ ```bash
+ git --version
+ ```bash
 
    **2. Configure Git**
      Git needs to know the identity of the person who creates commits.
