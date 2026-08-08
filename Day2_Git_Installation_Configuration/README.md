@@ -46,6 +46,8 @@
   To change the configured username: git config --global user.name "New Name"
   To change the email: git config --global user.email "new-email@example.com"
 
+  
+
   **5. Remove a Configuration**
   
   To remove the globally configured username: git config --global --unset user.name
