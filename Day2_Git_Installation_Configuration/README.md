@@ -2,6 +2,7 @@
 
 ## 1.Install Git
 To install Git on a RHEL/CentOS-based Linux system:
+
 ```bash
    yum install git -y
    dnf install git -y
@@ -13,7 +14,8 @@ To install Git on a RHEL/CentOS-based Linux system:
  git --version
  ```bash
 
-   **2. Configure Git**
+
+ ## 2.Configure Git
      Git needs to know the identity of the person who creates commits.
      git config --global --list : This command displays the Git configuration values configured at the global level for the current user.
 
