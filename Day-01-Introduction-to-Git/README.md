@@ -31,11 +31,11 @@ Because every developer has a full local copy:
 
 
 ## Advantages of Git**
-Fast and lightweight.
-Tracks every change made to the project.
-Supports collaboration among multiple developers.
-Maintains complete project history.
-Makes branching and merging simple.
-Helps recover previous versions when needed.
-Enables offline development.
+* Fast and lightweight.
+* Tracks every change made to the project.
+* Supports collaboration among multiple developers.
+* Maintains complete project history.
+* Makes branching and merging simple.
+* Helps recover previous versions when needed.
+* Enables offline development.
 
