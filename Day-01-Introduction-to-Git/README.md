@@ -1,13 +1,12 @@
-What is Git?
+**What is Git?**
+
 Git is a Distributed Version Control System (DVCS) that helps developers track changes in source code during software development. It is also widely used as a Source Code Management (SCM) tool
 
 
-Why do we use Git?
-
+**Why do we use Git?**
 Git helps developers manage and track changes made to a project over time.
 
-Using Git, you can easily find:
-
+Using Git, you can easily find below details:
 1) Who made the changes to the project.
 2) When the changes were made.
 3) What files were modified.
@@ -19,12 +18,10 @@ Using Git, you can easily find:
 
 
 
-Why is Git called a Distributed Version Control System?
+**Why is Git called a Distributed Version Control System?**
 
 In Git, every developer has a complete copy of the repository, including its entire commit history, on their local machine.
-
 A central repository (such as GitHub, GitLab, or Bitbucket) is usually used to share code and collaborate with other developers.
-
 Because every developer has a full local copy:
 
 1) Developers can continue working even if the central repository is temporarily unavailable.
@@ -33,8 +30,7 @@ Because every developer has a full local copy:
 
 
 
-Advantages of Git
-
+**Advantages of Git**
 Fast and lightweight.
 Tracks every change made to the project.
 Supports collaboration among multiple developers.
